@@ -1,1 +1,18 @@
+Berikut ini adalah algoritma untuk menghitung luas segitiga:
 
+Mulai
+Masukan alas segitiga
+Masukan tinggi segitiga
+Hitung luas segitiga = (0.5*(alas*tinggi));
+Tampilkan luas segitiga
+Selesai
+
+Berikut ini adalah algoritma untuk menghitung luas persegi panjang:
+
+Mulai
+Inisialisasi variabel panjang, lebar dan luas
+Masukan nilai panjang
+Masukan nilai lebar
+Hitung luas=panjang*lebar
+Tampilkan Luas
+Selesai
